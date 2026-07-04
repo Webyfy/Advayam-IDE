@@ -14,11 +14,11 @@
 
 <p align="center">
   <a href="https://advayamtech.in">
-    <img src="https://img.shields.io/badge/Website-advayamtech.in-0A84FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Website-advayamtech.in-0A84FF?style=for-the-badge" alt="Website Badge" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Releasing%20Soon-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Windows%20 ?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-MIT-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Releasing%20Soon-orange?style=for-the-badge" alt="Status Badge" />
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge" alt="Platform Badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-MIT-blueviolet?style=for-the-badge" alt="License Badge" />
 </p>
 
 ---
