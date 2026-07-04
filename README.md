@@ -27,7 +27,7 @@
 
 Adwayam IDE is currently under active development.
 
-Stay tuned for the first public release featuring PlatformIO integration, MicroPython support, embedded development tools, intelligent project management, and an extensible architecture for developers.
+Stay tuned for the first public release featuring PlatformIO integration, MicroPython support, embedded development tools, intelligent project management and an extensible architecture for developers.
 
 ⭐ **Star this repository to stay updated on the official release.**
 
