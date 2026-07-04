@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Website-advayamtech.in-0A84FF?style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/badge/Status-Releasing%20Soon-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Windows%20|%20Linux%20|%20macOS-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20 ?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20Source-MIT-blueviolet?style=for-the-badge" />
 </p>
 
